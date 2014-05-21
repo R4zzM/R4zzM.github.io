@@ -31,7 +31,7 @@ body {
     background-repeat: no-repeat, repeat;
     background-attachment: fixed, scroll;
     background-position: left top, left top;
-    background-size: auto 20%, auto;
+    background-size: 100% 20%, auto;
 
     font-family:  'Bryant', sans-serif;
     font-size: 14px;
